@@ -1,0 +1,10 @@
+Ime izdelka je: canon
+Stevilo kos v radnji je:5
+Cena izdelka je: 10
+Izdelk je na akciji.Stevilo izdelka na skladiscu je: 10
+Godina proizvodnje: 1990
+Ime izdelka je: asus
+Stevilo kos v radnji je:5
+Cena izdelka je: 100
+Izdelk je na akciji.Stevilo izdelka na skladiscu je: 10
+Procesor: intel

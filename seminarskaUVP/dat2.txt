@@ -1,0 +1,9 @@
+Laptop
+Asus
+10
+10
+true
+10
+intel
+25
+*Z

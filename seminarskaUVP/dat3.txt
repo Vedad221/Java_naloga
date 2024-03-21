@@ -1,0 +1,6 @@
+Ime izdelka je: asus
+Stevilo kos v radnji je:5
+Cena izdelka je: 5
+Izdelk je na akciji.Stevilo izdelka na skladiscu je: 10
+Procesor: 5
+Velicina ekrana: 24
